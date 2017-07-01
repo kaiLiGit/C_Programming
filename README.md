@@ -1,8 +1,7 @@
 C_Programming
 =================
 
-Essential concepts along with mini-projects tailored to personal needs
-======================================================================
+###Essential concepts along with mini-projects tailored to personal needs
 
 ### Programs include: 
 + Shell Program, check out [shell_program folder](https://github.com/kaiLiGit/C_Programming/tree/master/shell_program)
